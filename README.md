@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lily Stone
 
-<!--
-**lilystone55/lilystone55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="profile.png" width="200" alt="Lily Stone">
 
-Here are some ideas to get you started:
+Software developer specializing in Python, security analysis, and bug fixing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Security analysis
+- API integration
+- SQL
+- Git
+
+## About
+I fix bugs, write code, and build things. Always learning, always shipping.
+
+---
+
+Always shipping.
